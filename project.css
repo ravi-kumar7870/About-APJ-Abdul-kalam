@@ -1,0 +1,94 @@
+*{
+    background-color: #e5e5fd;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+.contaner{
+    background-color:#e5e5fd;
+    min-height: 100vh;
+    border: 7px solid rgb(99, 99, 237);
+    
+}
+.cont1{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.top_section{
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-between; /** dono k bitch m space lana **/
+    align-items: flex-end;
+}
+div h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+div h4{
+    font-size: 20px;
+    text-align: end;
+}
+
+
+
+
+.class_img{
+    border-radius: 40px;
+}
+
+
+.class_img, img{
+    width: 300px;
+    height: 320px;
+    border-radius:50%;
+
+
+}
+
+.about_section{
+    padding-top: 20px;
+    
+}
+h2{
+    font-size: 50px;
+}
+
+p{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.about_Biographes{
+    padding-right: 40px;
+}
+
+.about_Biographes h3{
+    font-size: 20px;
+}
+
+   
+.about_Biographes p{
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+.about_award{
+    font-size: 20px;
+    padding-bottom: 70px;
+}
+
+.about_award  p{
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+
+h3{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
